@@ -1,22 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
 
 
-#  <center>   **🦋Hi World** , I'm ***Bia Albuquerque*** </center> 
+#  <center>   **🦋Hi World** , I'm ***Bia Albuquerque***  </center> 
 
 ### <center>   ***Sejam Bem-Vindos, aqui estou em constate***  Evolução 🦋
 
 #### <center> Seja muito bem-vindo(a)! É um prazer recebê-lo(a) por aqui.
 
 
-<p align="center">Eu sou á Bia , e estou muito animada por você estar dando uma passada no meu perfil do GitHub. 🌟 </p>
+>Eu sou á Bia , e estou muito animada por você estar dando uma passada no meu perfil do GitHub. 🌟 </p>
+Neste espaço, você encontrará um pouco do meu caminho como iniciante na programação, mergulhando nas linguagens de Java, JavaScript e Python. Cada linha de código representa uma jornada de aprendizado, e estou ansiosa para compartilhar essas experiências com você.</p>
 
-<p align="center">Neste espaço, você encontrará um pouco do meu caminho como iniciante na programação, mergulhando nas linguagens de Java, JavaScript e Python. Cada linha de código representa uma jornada de aprendizado, e estou ansiosa para compartilhar essas experiências com você.</p>
+>Então, sinta-se à vontade para explorar meu perfil, onde você poderá encontrar projetos em desenvolvimento, pequenos scripts e quem sabe até algumas soluções criativas para desafios de programação que tenho enfrentado. </p>
 
-<p align="center">Então, sinta-se à vontade para explorar meu perfil, onde você poderá encontrar projetos em desenvolvimento, pequenos scripts e quem sabe até algumas soluções criativas para desafios de programação que tenho enfrentado. </p>
+Estou sempre aberta a feedbacks e sugestões, então não hesite em deixar sua marca aqui. Juntos, podemos aprender e crescer na arte da programação. </p>
 
-<p align="center">Estou sempre aberta a feedbacks e sugestões, então não hesite em deixar sua marca aqui. Juntos, podemos aprender e crescer na arte da programação. </p>
-
-<p align="center">Mais uma vez, seja bem-vindo(a) e aproveite sua visita ao meu perfil no GitHub! 🚀
+Mais uma vez, seja bem-vindo(a) e aproveite sua visita ao meu perfil no GitHub! 🚀
 
 
 
